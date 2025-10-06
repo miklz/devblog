@@ -1,0 +1,4 @@
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = git@github.com:miklz/hugo-theme-stack.git
+	branch = mermaid-support
